@@ -55,4 +55,14 @@ The goal of the project is to transform messy customer data into meaningful insi
 
 ---
 
-## Repository Structure
+## Repository Contents
+
+- **Code.ipynb** – Python notebook for data cleaning, transformation, and exploratory data analysis (EDA)
+- **Dataset.csv** – Retail customer behavior dataset used for analysis
+- **SQL Queries.sql** – SQL queries used to answer business questions and perform customer behavior analysis
+- **Dashboard.pbix** – Power BI dashboard file for data visualization (Windows Power BI Desktop)
+- **Report.pdf** – Analytical report summarizing insights and findings
+- **PPT.pptx** – Executive-style presentation of key insights and recommendations
+- **Problem Statement.pdf** – Business problem definition and project objectives
+- **README.md** – Project documentation and overview
+
