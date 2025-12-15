@@ -1,7 +1,7 @@
 # Retail Customer Behavior & Shopping Trends – Data Analysis Project
 
 ## Overview
-This project is an end-to-end **data analysis workflow** built using **Python, SQL (MySQL), and Power BI** to analyze retail customer behavior and shopping trends. It simulates a real-world, company-level analytics process followed by data analysts — from raw data preparation to business insights and visualization.
+This project is an end-to-end **data analysis workflow** built using **Python, SQL (MySQL), and Power BI** to analyze retail customer behavior and shopping trends. It simulates a realworld, company-level analytics process followed by data analysts, from raw data preparation to business insights and visualization.
 
 The goal of the project is to transform messy customer data into meaningful insights that support data-driven decision making.
 
@@ -10,7 +10,7 @@ The goal of the project is to transform messy customer data into meaningful insi
 ## Objectives
 - Analyze customer purchasing behavior and spending patterns  
 - Understand the impact of discounts, subscriptions, and shipping types  
-- Identify high-performing products and customer segments  
+- Identify high performing products and customer segments  
 - Present insights through clear and interactive visualizations  
 
 ---
